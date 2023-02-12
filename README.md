@@ -1,14 +1,10 @@
 
 
-
-
-In a .md file html code can be put. A very easy mode to get this effect is doing a table without borders,
-
 <table border="0">
 
  <tr>
     <td><img src="/github-metrics.svg" alt="Metrics" width="100%"></td>
-    <td><b style="font-size:30px">other info goes here</b></td>
+    <td><p style="font-size:30px">other info goes here</p></td>
  </tr>
 </table>
 
