@@ -32,6 +32,11 @@ jobs:
           config_timezone: Africa/Cairo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 16
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: .user.login
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -43,11 +48,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 16
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
           plugin_music: yes
           plugin_music_playlist: https://open.spotify.com/embed/playlist/0iojPx0WKkmEW008IDnbyf?utm_source=generator
           plugin_music_limit: 2
