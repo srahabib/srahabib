@@ -49,5 +49,5 @@ jobs:
           plugin_leetcode_user: .user.login
           plugin_music: yes
           plugin_music_playlist: https://open.spotify.com/embed/playlist/0iojPx0WKkmEW008IDnbyf?utm_source=generator
-          plugin_music_user: Sara Habib
+        
 
