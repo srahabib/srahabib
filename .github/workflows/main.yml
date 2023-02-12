@@ -29,6 +29,7 @@ jobs:
           user: srahabib
           template: classic
           base: header
+          config_display: columns
           config_timezone: Africa/Cairo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
