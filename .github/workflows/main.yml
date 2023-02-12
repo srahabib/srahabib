@@ -21,7 +21,7 @@ jobs:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
+          #  - repo          (optional, if you want to include private repositories).
           output_action: commit
           token: ${{ secrets.MATRICES_TOKEN }}
 
