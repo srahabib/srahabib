@@ -1,12 +1,4 @@
-
-
-<table border="0">
-
- <tr>
-    <td><img src="/github-metrics.svg" alt="Metrics" width="100%"></td>
-    <td><p style="font-size:30px">other info goes here</p></td>
- </tr>
-</table>
+![Metrics](/github-metrics.svg)
 
 <!--
 **srahabib/srahabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
