@@ -47,10 +47,4 @@ jobs:
           plugin_leetcode_limit_skills: 16
           plugin_leetcode_sections: solved
           plugin_leetcode_user: .user.login
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: playlist
-          plugin_music_playlist: https://open.spotify.com/playlist/3G5iQopisCageZcOBKt61W?si=4e4b1b114482484d
-          plugin_music_provider: lastfm
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
+
