@@ -56,5 +56,6 @@ jobs:
           plugin_screenshot_title: My Blog
           plugin_screenshot_url: https://my-blog-srahabib.vercel.app
           plugin_screenshot_selector: "#comic img"
+          plugin_screenshot_wait: 10
         
 
