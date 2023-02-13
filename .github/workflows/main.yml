@@ -53,11 +53,11 @@ jobs:
           plugin_music_playlist: https://open.spotify.com/embed/playlist/0iojPx0WKkmEW008IDnbyf?utm_source=generator
           plugin_music_limit: 2
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 12
           plugin_topics_mode: icons
           plugin_screenshot: yes
           plugin_screenshot_title: My Blog
-          plugin_screenshot_url: https://my-blog-srahabib.vercel.app/
+          plugin_screenshot_url: https://my-blog-srahabib.vercel.app
           plugin_screenshot_selector: "#myblog"
         
 
