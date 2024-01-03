@@ -1254,9 +1254,9 @@
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x8</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x7</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x5</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x5</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x5</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x4</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x4</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x3</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Divide and Conquer <span class="count">x2</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x2</span></div>
