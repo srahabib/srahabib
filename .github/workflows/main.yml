@@ -38,17 +38,17 @@ jobs:
           plugin_leetcode_limit_skills: 16
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_user: .user.login
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: 0:#de6fa1 ,1:#ff007f ,2:#ffddf4 ,3:#d74894 ,4:#FFCCCC,5:#de5285, 6:pink,7:#dbb2d1
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          #plugin_languages: yes
+          #plugin_languages_analysis_timeout: 15
+          #plugin_languages_analysis_timeout_repositories: 7.5
+          #plugin_languages_categories: markup, programming
+          #plugin_languages_colors: 0:#de6fa1 ,1:#ff007f ,2:#ffddf4 ,3:#d74894 ,4:#FFCCCC,5:#de5285, 6:pink,7:#dbb2d1
+          #plugin_languages_limit: 8
+          #plugin_languages_recent_categories: markup, programming
+          #plugin_languages_recent_days: 14
+          #plugin_languages_recent_load: 300
+          #plugin_languages_sections: most-used
+          #plugin_languages_threshold: 0%
           #plugin_music: yes
           #plugin_music_playlist: https://open.spotify.com/embed/playlist/0iojPx0WKkmEW008IDnbyf?utm_source=generator
           #plugin_music_limit: 2
